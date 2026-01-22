@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Yadav</h1>
-<h3 align="center">Aspiring data scientist with a focus on AI, currently studying at IITG and working for HCLTech as ITSM analyst. ."</h3>
+<h3 align="center">Aspiring data scientist with a focus on AI, currently studying at IITG and working for HCLTech as Azure cloud Engineer. ."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-yadav0001&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-yadav0001" /> </p>
 
